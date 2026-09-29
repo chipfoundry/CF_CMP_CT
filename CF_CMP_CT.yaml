@@ -1,0 +1,24 @@
+info:
+  name: CF_CMP_CT
+  description: Continuous-time comparator (CF_CMP_CT) is a ChipFoundry hard-macro blackbox
+    on SkyWater 130 nm.
+  repo: https://github.com/chipfoundry/CF_CMP_CT
+  owner: ChipFoundry
+  license: proprietary
+  author: ChipFoundry
+  email: support@chipfoundry.io
+  version: 0.2.0
+  date: 9-28-2026
+  category: analog
+  tags:
+  - CF_CMP_CT
+  bus: n/a
+  type: hard
+  maturity: Production
+  width: '195.12'
+  height: '120.87'
+  technology: sky130
+  digital_supply_voltage: n/a
+  analog_supply_voltage: n/a
+  clock_freq_mhz: n/a
+  cell_count: '2'

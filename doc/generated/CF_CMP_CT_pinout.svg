@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="506" height="536" viewBox="0 0 506 536">
+<rect width="100%" height="100%" fill="white"/>
+<text x="253" y="22" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" fill="#111">CF_CMP_CT</text>
+<rect x="148" y="48" width="210" height="416" fill="#f7f7f7" stroke="#222" stroke-width="1.5"/>
+<text x="253" y="261" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#333">CF_CMP_CT</text>
+<line x1="148" y1="69" x2="130" y2="69" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="73" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">trimA[4:0]</text>
+<line x1="148" y1="91" x2="130" y2="91" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="95" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">bypass_cmp_mux</text>
+<line x1="148" y1="113" x2="130" y2="113" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="117" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">trimB[4:0]</text>
+<line x1="148" y1="135" x2="130" y2="135" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="139" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">inn</text>
+<line x1="148" y1="157" x2="130" y2="157" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="161" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">vpb_ka</text>
+<line x1="148" y1="179" x2="130" y2="179" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="183" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">en</text>
+<line x1="148" y1="201" x2="130" y2="201" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="205" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">iref</text>
+<line x1="148" y1="223" x2="130" y2="223" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="227" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">vpwr_ka</text>
+<line x1="148" y1="245" x2="130" y2="245" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="249" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">cal_en</text>
+<line x1="148" y1="267" x2="130" y2="267" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="271" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">hyst</text>
+<line x1="148" y1="289" x2="130" y2="289" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="293" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">PD</text>
+<line x1="148" y1="311" x2="130" y2="311" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="315" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">filt</text>
+<line x1="148" y1="333" x2="130" y2="333" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="337" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">PD_override</text>
+<line x1="148" y1="355" x2="130" y2="355" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="359" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">hold_n</text>
+<line x1="148" y1="377" x2="130" y2="377" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="381" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">enable_hv</text>
+<line x1="148" y1="399" x2="130" y2="399" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="403" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">sel1</text>
+<line x1="148" y1="421" x2="130" y2="421" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="425" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">sel0</text>
+<line x1="148" y1="443" x2="130" y2="443" stroke="#222" stroke-width="1.25"/>
+<text x="124" y="447" text-anchor="end" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">inp</text>
+<line x1="358" y1="245" x2="376" y2="245" stroke="#222" stroke-width="1.25"/>
+<text x="382" y="249" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">out</text>
+<line x1="358" y1="267" x2="376" y2="267" stroke="#222" stroke-width="1.25"/>
+<text x="382" y="271" text-anchor="start" font-family="Menlo, Consolas, monospace" font-size="11" fill="#111">out_tr</text>
+<line x1="160" y1="464" x2="160" y2="478" stroke="#222" stroke-width="1.25"/>
+<text x="160" y="492" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="10" fill="#111">vpwr</text>
+<line x1="222" y1="464" x2="222" y2="478" stroke="#222" stroke-width="1.25"/>
+<text x="222" y="492" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="10" fill="#111">vgnd</text>
+<line x1="284" y1="464" x2="284" y2="478" stroke="#222" stroke-width="1.25"/>
+<text x="284" y="492" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="10" fill="#111">vpbe</text>
+<line x1="346" y1="464" x2="346" y2="478" stroke="#222" stroke-width="1.25"/>
+<text x="346" y="492" text-anchor="middle" font-family="Menlo, Consolas, monospace" font-size="10" fill="#111">vpwre</text>
+</svg>

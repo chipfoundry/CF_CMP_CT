@@ -1,0 +1,112 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 0
+<< metal1 >>
+rect 5461 18023 5525 18174
+rect 5316 18023 5380 18174
+rect 5204 18035 5267 18174
+rect 4828 18027 4892 18174
+rect 4427 18049 4491 18174
+rect 29700 18026 29816 18174
+rect 0 7846 188 8042
+rect 6007 18030 6071 18174
+rect 5630 18025 5694 18174
+rect 0 4978 329 5042
+<< metal2 >>
+rect 0 14802 155 14866
+rect 0 14898 154 14962
+rect 0 12244 129 12308
+rect 0 15189 160 15253
+rect 0 15090 161 15154
+rect 0 2641 269 2705
+rect 0 9713 311 9853
+rect 0 10997 316 11061
+rect 0 8587 164 8649
+rect 0 12064 356 12210
+rect 0 12899 137 12963
+rect 342 13921 478 13985
+rect 32580 54 33012 361
+rect 0 13217 352 13274
+rect 0 11376 187 11440
+rect 0 10001 249 10141
+rect 0 11863 293 11927
+rect 0 10348 224 10412
+rect 0 3821 204 3885
+rect 0 10466 243 10530
+rect 0 7737 189 7801
+rect 18910 18029 18974 18174
+rect 0 7456 194 7519
+rect 0 14994 158 15058
+<< labels >>
+rlabel metal2 s 0 14802 155 14866 4 trimA[2]
+port 1 nsew
+rlabel metal2 s 0 14898 154 14962 4 trimA[1]
+port 2 nsew
+rlabel metal2 s 0 12244 129 12308 4 bypass_cmp_mux
+port 3 nsew
+rlabel metal1 s 5461 18023 5525 18174 4 trimB[4]
+port 4 nsew
+rlabel metal1 s 5316 18023 5380 18174 4 trimB[0]
+port 5 nsew
+rlabel metal1 s 5204 18035 5267 18174 4 trimB[1]
+port 6 nsew
+rlabel metal1 s 4828 18027 4892 18174 4 trimB[2]
+port 7 nsew
+rlabel metal1 s 4427 18049 4491 18174 4 trimB[3]
+port 8 nsew
+rlabel metal2 s 0 15189 160 15253 4 trimA[4]
+port 9 nsew
+rlabel metal2 s 0 15090 161 15154 4 trimA[3]
+port 10 nsew
+rlabel metal2 s 0 2641 269 2705 4 inn
+port 11 nsew
+rlabel metal2 s 0 9713 311 9853 4 vpb_ka
+port 12 nsew
+rlabel metal2 s 0 10997 316 11061 4 en
+port 13 nsew
+rlabel metal2 s 0 8587 164 8649 4 iref
+port 14 nsew
+rlabel metal2 s 0 12064 356 12210 4 vpwr
+port 15 nsew
+rlabel metal2 s 0 12899 137 12963 4 vpb
+port 16 nsew
+rlabel metal2 s 342 13921 478 13985 4 vnb
+port 17 nsew
+rlabel metal2 s 32580 54 33012 361 4 vgnd
+port 18 nsew
+rlabel metal2 s 0 13217 352 13274 4 out
+port 19 nsew
+rlabel metal2 s 0 11376 187 11440 4 out_tr
+port 20 nsew
+rlabel metal2 s 0 10001 249 10141 4 vpwr_ka
+port 21 nsew
+rlabel metal2 s 0 11863 293 11927 4 cal_en
+port 22 nsew
+rlabel metal2 s 0 10348 224 10412 4 hyst
+port 23 nsew
+rlabel metal2 s 0 3821 204 3885 4 PD
+port 24 nsew
+rlabel metal2 s 0 10466 243 10530 4 filt
+port 25 nsew
+rlabel metal2 s 0 7737 189 7801 4 PD_override
+port 26 nsew
+rlabel metal2 s 18910 18029 18974 18174 4 hold_n
+port 27 nsew
+rlabel metal2 s 0 7456 194 7519 4 enable_hv
+port 28 nsew
+rlabel metal2 s 0 14994 158 15058 4 trimA[0]
+port 29 nsew
+rlabel metal1 s 29700 18026 29816 18174 4 vpbe
+port 30 nsew
+rlabel metal1 s 0 7846 188 8042 4 vpwre
+port 31 nsew
+rlabel metal1 s 6007 18030 6071 18174 4 sel1
+port 32 nsew
+rlabel metal1 s 5630 18025 5694 18174 4 sel0
+port 33 nsew
+rlabel metal1 s 0 4978 329 5042 4 inp
+port 34 nsew
+<< properties >>
+string FIXED_BBOX 0 0 33024 18174
+<< end >>
